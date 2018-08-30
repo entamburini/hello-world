@@ -1,15 +1,22 @@
-# Hola!
+# AC04
 
-Este repo estará lleno de proyectos incompletos personales y que no son de mayor utilidad, simplemente servirán para diversión y ocio mío :)
+## Autores: Arcoirisky y jtagle2
 
-# Primer readme
-**Nunca debes olvidar cómo comenzaste todo**
+El enunciado de esta actividad se edita [aquí](https://www.overleaf.com/14448428sszfbkvdgyvf).
 
-> # hello-world
+|  **Sección 1 (K202)**       |     **Sección 2 (A1)**     |      **Sección 3 (CS204)**    |
+|:--------------------------: | :--------------------------: | :--------------------------: |
+| **Gabriel** |   **Pablo**    |        **Franco**         |
+|       Paula :book:           |      Nicolás :battery: :arrow_right:            |   Juan :book:    |
+|       Santiago     |        Dante      |      Vicente :battery: :back:                |
+|     Benja Martínez :battery: :arrow_right:  |          Fernando :battery: :back:              |                 Jacques        |
+|        |        Paul :book:                |                        |
 
->Esta es mi primera prueba en github
->Espero que sea el primero de muchos programas que suba en esta web.
+**Simbología**:
 
->PD: Si alguien lo lee... amo los churrascos :D
-
-Si, aún amo los churrascos :)
+- :book:: encargado de pasar la lista en esa sala.
+- :battery: :arrow_right:: encargado de llevar los alargadores.
+- :battery: :back:: encargado de llevar los alargadores de vuelta.
+- :four:: asiste solo al cuarto módulo.
+- :five:: asiste solo al quinto módulo.
+- :pen:: autor de la actividad
