@@ -10,7 +10,9 @@ El enunciado de esta actividad se edita [aquí](https://www.overleaf.com/1444842
 |       Paula :book:           |      Nicolás :battery: :arrow_right:            |   Juan :book:    |
 |       Santiago     |        Dante      |      Vicente :battery: :back:                |
 |     Benja Martínez :battery: :arrow_right:  |          Fernando :battery: :back:              |                 Jacques        |
-|   Camilo Lopez :pen: :five:     |        Paul :book:                |                        |
+|   Camilo Lopez :pen: :five:     |        Paul :book:                |           **Enzo**             |
+|   **Benja**     |                        |                        |
+
 
 **Simbología**:
 
