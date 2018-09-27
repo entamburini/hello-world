@@ -9,7 +9,6 @@
 |      Santiago :book:    |      Paul        |      Nicolás :battery: :back:    |
 |   Dante :pen:    |          Juan :book:        |             Fernando :battery: :arrow_right:        |
 |  Paula :battery: :back:  |        FerndandoDeDiego :pen:           |          FJavierOss :pen:          |
-| **Rodrigo**  | **Enzo** | **Benja** |
 
 **Simbología**:
 
