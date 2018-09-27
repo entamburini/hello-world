@@ -1,14 +1,14 @@
-# AC06
+# AC07
 
-## Autores: vaguila95 & jtcaraball  
+## Autores: Drpinto1 & FernandoDeDiego & FJavierOss  
 
 |  **Sección 1 (K202)**       |     **Sección 2 (A1)**     |      **Sección 3 (CS204)**    |
 |:--------------------------: | :--------------------------: | :--------------------------: |
-|  **Pablo**   |   **Franco**   |      **Gabriel**          |
-|       Nicolás :book:           |      Benja Martínez :book:       |    Santiago :battery: :back:   |
-|      Dante :battery: :back:     |        Juan :battery: :arrow_right:     |      Jacques :book:    |
-|    Paul :battery: :arrow_right:   |         Paula          |         Vicente :pen:            |
-|   Fernando  |         jtcaraball :pen:           |                     |
+|  **Franco**   |   **Gabriel** :battery: :arrow_right:  |      **Pablo**          |
+|        Jacques          |       Vicente       |    Benja Martínez :book:   |
+|      Santiago :book:    |      Paul        |      Nicolás :battery: :back:    |
+|   Dante :pen:    |          Juan :book:        |             Fernando :battery: :arrow_right:        |
+|  Paula :battery: :back:  |        FerndandoDeDiego :pen:           |          FJavierOss :pen:          |
 
 
 **Simbología**:
