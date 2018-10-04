@@ -1,14 +1,14 @@
-# AC07
+# AC08
 
-## Autores: Drpinto1 & FernandoDeDiego & FJavierOss  
+## Autores: pfarellano & vjlira  
 
 |  **Sección 1 (K202)**       |     **Sección 2 (A1)**     |      **Sección 3 (CS204)**    |
 |:--------------------------: | :--------------------------: | :--------------------------: |
-|  **Franco**   |   **Gabriel** :battery: :arrow_right:  |      **Pablo**          |
-|        Jacques          |       Vicente       |    Benja Martínez :book:   |
-|      Santiago :book:    |      Paul        |      Nicolás :battery: :back:    |
-|   Dante :pen:    |          Juan :book:        |             Fernando :battery: :arrow_right:        |
-|  Paula :battery: :back:  |        FerndandoDeDiego :pen:           |          FJavierOss :pen:          |
+|  **Gabriel**   |   **Franco**   |      **Pablo**          |
+|     Benja Martinez :battery: :back:    |       Dante       |     Santiago :battery: :back:    |
+|     Juan     |      Vicente :battery: :arrow_right:       |     Nicolás :book:     |
+|     Paul :book:    |       Jacques :battery: :arrow_right:      |     Fernando      |
+|          |       Paula :pen: :book:     |           |
 
 **Simbología**:
 
