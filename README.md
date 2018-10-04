@@ -8,7 +8,7 @@
 |     Benja Martinez :battery: :back:    |       Dante       |     Santiago :battery: :back:    |
 |     Juan     |      Vicente :battery: :arrow_right:       |     Nicolás :book:     |
 |     Paul :book:    |       Jacques :battery: :arrow_right:      |     Fernando      |
-|    vjlira      |       Paula :pen: :book:     |           |
+|    vjlira :pen:     |       Paula :pen: :book:     |           |
 
 **Simbología**:
 
