@@ -5,10 +5,10 @@
 |  **Sección 1 (K202)**       |     **Sección 2 (A1)**     |      **Sección 3 (CS204)**    |
 |:--------------------------: | :--------------------------: | :--------------------------: |
 |  **Franco** :battery: :arrow_right:  |   **Pablo**   |      **Gabriel**          |
-|     Vicente     |       Benja Martinez       |     Paul :pen: :battery: :back:  |
+|     Vicente     |       Benja Martinez :book:      |     Paul :pen: :battery: :back:  |
 |     Santiago :book:    |      Nicolás       |     Dante :book:    |
 |    Fernando :battery: :back:   |       Paula :battery: :arrow_right:     |     Jacques      |
-|    javierabao :pen:    |      Juan :book:    |           |
+|    javierabao :pen:    |          |     Juan      |
 
 **Simbología**:
 
