@@ -1,14 +1,14 @@
-# AC08
+# AC09
 
-## Autores: pfarellano & vjlira  
+## Autores: pnheinsohn & javierabao  
 
 |  **Sección 1 (K202)**       |     **Sección 2 (A1)**     |      **Sección 3 (CS204)**    |
 |:--------------------------: | :--------------------------: | :--------------------------: |
-|  **Gabriel**   |   **Franco**   |      **Pablo**          |
-|     Benja Martinez :battery: :back:    |       Dante       |     Santiago :battery: :back:    |
-|     Juan     |      Vicente :battery: :arrow_right:       |     Nicolás :book:     |
-|     Paul :book:    |       Jacques :battery: :arrow_right:      |     Fernando      |
-|    vjlira :pen:     |       Paula :pen: :book:     |           |
+|  **Franco** :battery: :arrow_right:  |   **Pablo**   |      **Gabriel**          |
+|     Vicente     |       Benja Martinez       |     Paul :pen: :battery: :back:  |
+|     Santiago :book:    |      Nicolás       |     Dante :book:    |
+|    Fernando :battery: :back:   |       Paula :battery: :arrow_right:     |     Jacques      |
+|    javierabao :pen:    |      Juan :book:    |           |
 
 **Simbología**:
 
