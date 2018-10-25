@@ -1,14 +1,14 @@
-# AC09
+# AC11
 
-## Autores: pnheinsohn & javierabao  
+## Autores: jjaguillon & Arcoirisky  
 
 |  **Sección 1 (K202)**       |     **Sección 2 (A1)**     |      **Sección 3 (CS204)**    |
 |:--------------------------: | :--------------------------: | :--------------------------: |
-|  **Franco** :battery: :arrow_right:  |   **Pablo**   |      **Gabriel**          |
-|     Vicente     |       Benja Martinez :book:      |     Paul :pen: :battery: :back:  |
-|     Santiago :book:    |      Nicolás       |     Dante :book:    |
-|    Fernando :battery: :back:   |       Paula :battery: :arrow_right:     |     Jacques      |
-|    javierabao :pen:    |          |     Juan      |
+|  **Gabriel**   |   **Pablo**   |      **Franco**          |
+|     Nicolás     |       Benja Martinez :battery: :arrow_right:      |     Paula :book:     |
+|    Santiago :battery: :back:     |      Juan :pen: :book:     |     Paul :battery: :back:     |
+|     Vicente :book:    |       Fernando       |     Dante      |
+|    Arcoirisky :pen:     |     Jacques :battery: :arrow_right:     |           |
 
 **Simbología**:
 
