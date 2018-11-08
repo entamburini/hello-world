@@ -1,14 +1,14 @@
-# AC11
+# AC12
 
-## Autores: jjaguillon & Arcoirisky  
+## Autores: naquiroz & norman123123  
 
 |  **Sección 1 (K202)**       |     **Sección 2 (A1)**     |      **Sección 3 (CS204)**    |
 |:--------------------------: | :--------------------------: | :--------------------------: |
-|  **Gabriel**   |   **Pablo**   |      **Franco**          |
-|     Nicolás     |       Benja Martinez :battery: :arrow_right:      |     Paula :book:     |
-|    Santiago :battery: :back:     |      Juan :pen: :book:     |     Paul :battery: :back:     |
-|     Vicente :book:    |       Fernando       |     Dante      |
-|    Arcoirisky :pen:     |     Jacques :battery: :arrow_right:     |           |
+|  **Franco** :book:   |   **Gabriel** :book:   |      **Pablo** :book:         |
+|     Nicolás :pen:    |       Paula       |     Santiago      |
+|     Benja Martinez :battery: :back:     |      Juan :battery: :arrow_right:     |     Jacques :battery: :arrow_right:     |
+|    Dante     |       Paul       |     Fernando :battery: :back:      |
+|    **Enzo**      |     **Benja**      |     norman123123 :pen:     |
 
 **Simbología**:
 
