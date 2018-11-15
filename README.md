@@ -1,15 +1,15 @@
-# AC12
+# AC13
 
-## Autores: naquiroz & norman123123  
+## Autores: pcrodriguez & Jacques  
 
 |  **Sección 1 (K202)**       |     **Sección 2 (A1)**     |      **Sección 3 (CS204)**    |
 |:--------------------------: | :--------------------------: | :--------------------------: |
-|  **Franco** :book:   |   **Gabriel** :book:   |      **Pablo** :book:         |
-|     Nicolás :pen:    |       Paula       |     Santiago      |
-|     Benja Martinez :battery: :back:     |      Juan :battery: :arrow_right:     |     Jacques :battery: :arrow_right:     |
-|    Dante     |       Paul       |     Fernando :battery: :back:      |
-|    **Enzo**      |     **Benja**      |     norman123123 :pen:     |
-
+|  **Gabriel**    |   **Franco**    |      **Pablo**         |
+|     Nicolás :pen:    |       Vicente       |     Paul      |
+|     Santiago      |      Juan :book:     |     Fernando     |
+|    Benja Martinez     |       pcrodriguez :pen:       |     Dante     |
+|    Paula :book:      |     **Enzo**      |     Jacques :pen:     |
+| **Benja** | 
 **Simbología**:
 
 - :book:: encargado de pasar la lista en esa sala.
