@@ -5,11 +5,12 @@
 |  **Sección 1 (K202)**       |     **Sección 2 (A1)**     |      **Sección 3 (CS204)**    |
 |:--------------------------: | :--------------------------: | :--------------------------: |
 |  **Gabriel**    |   **Franco**    |      **Pablo**         |
-|     Nicolás :pen:    |       Vicente       |     Paul      |
+|     Nicolás     |       Vicente       |     Paul      |
 |     Santiago      |      Juan :book:     |     Fernando     |
 |    Benja Martinez     |       pcrodriguez :pen:       |     Dante     |
 |    Paula :book:      |     **Enzo**      |     Jacques :pen:     |
-| **Benja** | 
+| **Benja** | | |
+
 **Simbología**:
 
 - :book:: encargado de pasar la lista en esa sala.
