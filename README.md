@@ -1,15 +1,14 @@
-# AC13
+# AC14
 
-## Autores: pcrodriguez & Jacques  
+## Autores: pcrodriguez & Benja Martinez
 
 |  **Sección 1 (K202)**       |     **Sección 2 (A1)**     |      **Sección 3 (CS204)**    |
 |:--------------------------: | :--------------------------: | :--------------------------: |
-|  **Gabriel**    |   **Franco**    |      **Pablo**         |
-|     Nicolás     |       Vicente       |     Paul      |
-|     Santiago      |      Juan :book:     |     Fernando     |
-|    Benja Martinez     |       pcrodriguez :pen:       |     Dante     |
-|    Paula :book:      |     **Enzo**      |     Jacques :pen:     |
-| **Benja** | | |
+|  **Pablo**    |   **Benja**    |      **Franco**  :book:       |
+|     Benja Martinez     |       Paula  :battery: :back:     |     Paul      |
+|     Nicolás :book:     |      Santiago     |     Jacques :battery: :back:    |
+|    Vicente :battery: :arrow_right:    |       Fernando :book:      |     **Enzo**    |
+|     Juan :battery: :arrow_right:   |      |     |
 
 **Simbología**:
 
