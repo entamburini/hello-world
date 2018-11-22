@@ -1,6 +1,6 @@
 # AC14
 
-## Autores: pcrodriguez & Benja Martinez
+## Autores: cschavez & Benja Martinez
 
 |  **Sección 1 (K202)**       |     **Sección 2 (A1)**     |      **Sección 3 (CS204)**    |
 |:--------------------------: | :--------------------------: | :--------------------------: |
