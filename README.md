@@ -1,15 +1,20 @@
-# Hola!
+# AC14
 
-Este repo estará lleno de proyectos incompletos personales y que no son de mayor utilidad, simplemente servirán para diversión y ocio mío :)
+## Autores: cschavez & Benja Martinez
 
-# Primer readme
-**Nunca debes olvidar cómo comenzaste todo**
+|  **Sección 1 (K202)**       |     **Sección 2 (A1)**     |      **Sección 3 (CS204)**    |
+|:--------------------------: | :--------------------------: | :--------------------------: |
+|  **Pablo**    |   **Benja**    |      **Franco**  :book:       |
+|     Benja Martinez     |       Paula  :battery: :back:     |     Paul      |
+|     Nicolás :book:     |      Santiago     |     Jacques :battery: :back:    |
+|    Vicente :battery: :arrow_right:    |       Fernando :book:      |     **Enzo**    |
+|     Juan :battery: :arrow_right:   |      |     |
 
-> # hello-world
+**Simbología**:
 
->Esta es mi primera prueba en github
->Espero que sea el primero de muchos programas que suba en esta web.
-
->PD: Si alguien lo lee... amo los churrascos :D
-
-Si, aún amo los churrascos :)
+- :book:: encargado de pasar la lista en esa sala.
+- :battery: :arrow_right:: encargado de traer los alargadores.
+- :battery: :back:: encargado de llevar los alargadores de vuelta.
+- :four:: asiste solo al cuarto módulo.
+- :five:: asiste solo al quinto módulo.
+- :pen:: autor de la actividad
